@@ -1,0 +1,62 @@
+https://youtu.be/oUtvFOod3ug 처음코딩 파이썬 01 설치 1/2
+https://youtu.be/DcDLT2dUCDc 처음코딩 파이썬 01 설치 2/2
+https://youtu.be/z3x2LdjYYX8 처음코딩 파이썬 02 배경지식
+https://youtu.be/LqRKaFYnH4k 처음코딩 파이썬 03 주석, 상수, 문자열 1/3
+https://youtu.be/ebJJfT1gqfo 처음코딩 파이썬 03 주석, 상수, 문자열 2/3
+https://youtu.be/eErjqAxS9h8 처음코딩 파이썬 03 주석, 상수, 문자열 3/3
+https://youtu.be/HRA3qj_Vt4s 처음코딩 파이썬 04 변수와 상수
+https://youtu.be/ievi6mASzi8 처음코딩 파이썬 05 기본연산자 1/4
+https://youtu.be/9IZO1T0Gkzk 처음코딩 파이썬 05 기본연산자 2/4
+https://youtu.be/y1_knxkkDdU 처음코딩 파이썬 05 기본연산자 3/4
+https://youtu.be/YHCR3RuZ3Hg 처음코딩 파이썬 05 기본연산자 4/4
+https://youtu.be/VSJgSV5KxnQ 처음코딩 파이썬 06 할당연산자 1/3
+https://youtu.be/AhrbHRbX-uk 처음코딩 파이썬 06 할당연산자 2/3
+https://youtu.be/FxqsQApoUCI 처음코딩 파이썬 06 할당연산자 3/3
+https://youtu.be/kje7DmjW2N8 처음코딩 파이썬 07 연산순서 (1/2)
+https://youtu.be/SfnWHMYW-5E 처음코딩 파이썬 07 연산순서 (2/2)
+https://youtu.be/ZWt3hvMjqho 처음코딩 파이썬 08 if 조건문 (1/3)
+https://youtu.be/i6tRnToMzho 처음코딩 파이썬 08 if 조건문(2/3)
+https://youtu.be/6R4AkkAryrE 처음코딩 파이썬 08  if 조건문 (3/3)
+https://youtu.be/dw_VUMCtZTI 처음코딩 파이썬 09 while 반복문
+https://youtu.be/pr_-PVa6Dps 처음코딩 파이썬 10 for 반복문 (1/2)
+https://youtu.be/qvvBXBcyIfQ 처음코딩 파이썬 10 for 반복문 (2/2)
+https://youtu.be/MK66N2AmOBA 처음코딩 파이썬 11 break, continue
+https://youtu.be/cXMwC4aSPhY 처음코딩 파이썬 12 함수
+https://youtu.be/baChIyR_XDg 처음코딩 파이썬 13 지역변수, 전역변수
+https://youtu.be/Z3ulG7katBA 처음코딩 파이썬 14 기본인수값, 키워드인수
+https://youtu.be/WgB5Svh-C10 처음코딩 파이썬 15 VarArgs 매개변수 1/2
+https://youtu.be/XiKMz8Ln9wg 처음코딩 파이썬 15 VarArgs 매개변수 2/2
+https://youtu.be/OZufkO_J1xc 처음코딩 파이썬 16 return 1/4
+https://youtu.be/6eYAGtq-te4 처음코딩 파이썬 16 return 2/4
+https://youtu.be/yC8Sp1nb3fs 처음코딩 파이썬 16 return 3/4
+https://youtu.be/_r0YTm64mI8 처음코딩 파이썬 16 return 4/4
+https://youtu.be/3QDjs6BqcIk 처음코딩 파이썬 17 모듈이해 1/2
+https://youtu.be/hd7LtTHJE6c 처음코딩 파이썬 17 모듈이해 2/2
+https://youtu.be/8-FVpAucXhc 처음코딩 파이썬 18 모듈만들기 1/2
+https://youtu.be/WMnb5vvg4dc 처음코딩 파이썬 18 모듈만들기 2/2
+https://youtu.be/-yb8YkqRGYQ 처음코딩 파이썬 19 dir() 내장함수
+https://youtu.be/FY4vCiGfmwU 처음코딩 파이썬 20 자료구조,리스트 1/3
+https://youtu.be/ihFir5Cfy7o 처음코딩 파이썬 20 자료구조,리스트 2/3
+https://youtu.be/z7iuZbM2Slo 처음코딩 파이썬 20 자료구조,리스트 3/3
+https://youtu.be/-jY7wA_jAaM 처음코딩 파이썬 21 자료구조,튜플 1/2
+https://youtu.be/NJar0GSChBE 처음코딩 파이썬 21 자료구조,튜플 2/2
+https://youtu.be/7MGKWn0mkDo 처음코딩 파이썬 22 자료구조,사전 1/2
+https://youtu.be/cit7NfYSlZ4 처음코딩 파이썬 22 자료구조,사전 2/2
+https://youtu.be/GfEeuA95glI 처음코딩 파이썬 23 열거형과 슬라이스연산 1/2
+https://youtu.be/1VkiqYwqqa0 처음코딩 파이썬 23 열거형과 슬라이스연산 2/2
+https://youtu.be/BiniHSrw9mY 처음코딩 파이썬 24 참조 1/2
+https://youtu.be/BYj89_KuwUQ 처음코딩 파이썬 24 참조 2/2
+https://youtu.be/390Anr5UhMw 처음코딩 파이썬 25 문자열 1/2
+https://youtu.be/tDZJ-K0qjJk 처음코딩 파이썬 25 문자열 2/2
+https://youtu.be/t3KXmvo4NDQ 처음코딩 파이썬 26 박업프로그램 제작 1/2
+https://youtu.be/Alp9MCZqdbo 처음코딩 파이썬 26 박업프로그램 제작 2/2
+https://youtu.be/gqVIa_NDBsk 처음코딩 파이썬 27 객체지향 1/4
+https://youtu.be/uUt0w9iFOmM 처음코딩 파이썬 27 객체지향 2/4
+https://youtu.be/9jfzOYwGm3U 처음코딩 파이썬 27 객체지향 3/4
+https://youtu.be/2vp2sw3ddp4 처음코딩 파이썬 27 객체지향 4/4
+https://youtu.be/7W9NMJj9aas 처음코딩 파이썬 28 상속 1/2
+https://youtu.be/iRbp_brGrBU 처음코딩 파이썬 28 상속 2/2
+https://youtu.be/IxBJqbAtmag 처음코딩 파이썬 29 파일입출력 1/3
+https://youtu.be/2S7C6-9ylTc 처음코딩 파이썬 29 파일입출력 2/3
+https://youtu.be/_qBp1SmS4UI 처음코딩 파이썬 29 파일입출력 3/3
+https://youtu.be/LhtV9nsrdaY 처음코딩 파이썬 30 예외처리
