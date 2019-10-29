@@ -1,5 +1,19 @@
+# idpw.py
+# NAVER_CONFIG = {
+#     'id': 'naver_id',
+#     'pw': 'naver_password'
+# }
+# 별도의 파일(idpw.py)을 만들어서 거기에 id, pw 를 넣어서 사용
+# gitignore 에 idpw.py 를 등록해서 깃허브에 올라가지 않게 할것.
+
+
+
 from selenium import webdriver
 import idpw
+
+id = idpw.NAVER_CONFIG['id']
+pw = idpw.NAVER_CONFIG['pw']
+
 # import time
 path = "C:/Utils/chromedriver.exe"
 driver = webdriver.Chrome(path)
